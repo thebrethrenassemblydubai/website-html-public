@@ -1,0 +1,26 @@
+{
+  "short_name": "Dubai Brethren",
+  "name": "Dubai Brethren Assembly",
+  "description": "We are a Bible-based congregation, known as “Brethren,” gathering in the name of the Lord Jesus Christ. As an independent assembly in Dubai, UAE, we testify to God’s love and grace, coming together for worship, fellowship, prayer, and Bible study.",
+  "icons": [
+    {
+      "src": "logo-sm.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo-md.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo-lg.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

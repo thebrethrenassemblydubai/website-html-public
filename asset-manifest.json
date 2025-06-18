@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e22bf644.css",
+    "main.js": "/static/js/main.48683f5b.js",
+    "static/js/453.4cce9a26.chunk.js": "/static/js/453.4cce9a26.chunk.js",
+    "static/media/home-hero.jpg": "/static/media/home-hero.aaacefb5bb9f71f29f04.jpg",
+    "static/media/bible.jpg": "/static/media/bible.5227e9ce68b123b8d845.jpg",
+    "static/media/map.png": "/static/media/map.bfae763a6b1cb8fd7056.png",
+    "static/media/about.jpg": "/static/media/about.86213fec3a54055cf30a.jpg",
+    "static/media/gospel.jpg": "/static/media/gospel.562cf44444006b4ecc27.jpg",
+    "static/media/media.jpg": "/static/media/media.0dfd67cf008595b88c91.jpg",
+    "static/media/contact-us.jpg": "/static/media/contact-us.56a89ce72cdcc1da889d.jpg",
+    "index.html": "/index.html",
+    "main.e22bf644.css.map": "/static/css/main.e22bf644.css.map",
+    "main.48683f5b.js.map": "/static/js/main.48683f5b.js.map",
+    "453.4cce9a26.chunk.js.map": "/static/js/453.4cce9a26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e22bf644.css",
+    "static/js/main.48683f5b.js"
+  ]
+}
