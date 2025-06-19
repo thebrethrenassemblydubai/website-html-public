@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e22bf644.css",
-    "main.js": "/static/js/main.c39739b5.js",
+    "main.js": "/static/js/main.790b86a2.js",
     "static/js/453.4cce9a26.chunk.js": "/static/js/453.4cce9a26.chunk.js",
     "static/media/home-hero.jpg": "/static/media/home-hero.aaacefb5bb9f71f29f04.jpg",
     "static/media/bible.jpg": "/static/media/bible.5227e9ce68b123b8d845.jpg",
@@ -12,11 +12,11 @@
     "static/media/contact-us.jpg": "/static/media/contact-us.56a89ce72cdcc1da889d.jpg",
     "index.html": "/index.html",
     "main.e22bf644.css.map": "/static/css/main.e22bf644.css.map",
-    "main.c39739b5.js.map": "/static/js/main.c39739b5.js.map",
+    "main.790b86a2.js.map": "/static/js/main.790b86a2.js.map",
     "453.4cce9a26.chunk.js.map": "/static/js/453.4cce9a26.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e22bf644.css",
-    "static/js/main.c39739b5.js"
+    "static/js/main.790b86a2.js"
   ]
 }
